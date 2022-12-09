@@ -10,3 +10,6 @@ this all are our commits
 {
 this is branching strategy
 }
+{
+i am stashing areaa file
+}
