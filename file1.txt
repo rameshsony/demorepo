@@ -7,3 +7,6 @@ welcome to git class
 {
 this all are our commits
 }
+{
+this is branching strategy
+}
