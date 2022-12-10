@@ -13,3 +13,4 @@ this is branching strategy
 {
 i am stashing areaa file
 }
+x=2
