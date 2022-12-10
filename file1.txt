@@ -10,4 +10,4 @@ this all are our commits
 {
 this is branching strategy
 }
-x=3
+x=2
